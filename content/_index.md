@@ -28,7 +28,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: experience
+  - block: education
     content:
       title: Academic trajectory
       # Date format for experience
@@ -66,7 +66,7 @@ sections:
           description: 'Scholarship funded by the Chilean Ministry of Education.'
     design:
       columns: '2'
-  - block: accomplishments
+  - block: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Teaching experience'
@@ -105,7 +105,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+  - block: publications
     id: posts
     content:
       title: Recent Posts
