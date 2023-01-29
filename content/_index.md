@@ -30,7 +30,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Academic trajectory
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -47,7 +47,7 @@ sections:
           location: Manchester, UK
           date_start: '2020-09-15'
           date_end: ''
-          description: ''
+          description: 'Doctoral Scholarship funded by the Chilean National Agency for Research Development, ANID.'
         - title: Master in Political Science
           company: University of Chile
           company_url: 'https://gobierno.uchile.cl/'
@@ -55,7 +55,7 @@ sections:
           location: Santiago, Chile
           date_start: '2015-03-01'
           date_end: '2016-12-31'
-          description: ''
+          description: 'Scholarship funded by the Chilean National Commission for Scientific and Technological Research, CONICYT.'
     design:
       columns: '2'
   - block: accomplishments
