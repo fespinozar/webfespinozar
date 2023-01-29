@@ -9,7 +9,7 @@ authors:
 - Francisco Espinoza
 tags: []
 categories: []
-date: -01-01
+date: 2014-07-14
 lastmod: 2023-01-29T13:35:30Z
 featured: false
 draft: false
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:23.764165Z'
+publishDate: '2014'
 publication_types:
 - '6'
 abstract: 'Editor Literario: Red de Sociología de las Universidades Chilenas SOCIORED
