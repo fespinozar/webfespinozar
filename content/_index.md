@@ -47,7 +47,7 @@ sections:
           location: Manchester, UK
           date_start: '2020-09-15'
           date_end: ''
-          description: ''
+          description: 
         - title: Master in Political Science
           company: University of Chile
           company_url: 'https://gobierno.uchile.cl'
@@ -55,7 +55,7 @@ sections:
           location: Santiago, Chile
           date_start: '2015-03-01'
           date_end: '2016-12-31'
-          description: ''
+          description: 
         - title: Sociologist, Licentiate in Sociology
           company: University of Chile
           company_url: 'https://facso.uchile.cl'
@@ -63,7 +63,7 @@ sections:
           location: Santiago, Chile
           date_start: ''
           date_end: '2014-07-31'
-          description: ''
+          description: 
     design:
       columns: '2'
   - block: accomplishments
