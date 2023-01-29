@@ -16,21 +16,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: This is a relevant skill.
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Quantitative methods
+          #description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Comparative 
+          #description: 
+          icon: 
+          icon_pack: fas
+        - name: Comparative Politics
+          #description: 
           icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Academic trajectory
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,27 +40,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD in Politics
+          company: The University of Manchester
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          company_logo: uom.png
+          location: Manchester, UK
+          date_start: '2020-09-20'
+          date_end: '2024-09-20'
+          description: ''
+        - title: Master in Political Science
+          company: University of Chile
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: uchile.png
+          location: Santiago, Chile
+          date_start: '2015-03-01'
+          date_end: '2016-12-31'
+          description: ''
+        - title: Sociologist, Licentiate in Sociology
+          company: University of Chile
+          company_url: ''
+          company_logo: uchile.png
+          location: Santiago, Chile
+          date_start: ''
+          date_end: '2014-07'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
