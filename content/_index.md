@@ -56,14 +56,6 @@ sections:
           date_start: '2015-03-01'
           date_end: '2016-12-31'
           description: ''
-        - title: Sociologist, Licentiate in Sociology
-          company: University of Chile
-          company_url: 'https://facso.uchile.cl/'
-          company_logo: org-x
-          location: Santiago, Chile
-          date_start: ''
-          date_end: '2014-07-04'
-          description: ''
     design:
       columns: '2'
   - block: accomplishments
