@@ -79,7 +79,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
+        - certificate_url: ''
           date_end: '2021-09-15'
           date_start: '2023-01-31'
           description: 'TA role in postgraduate taught courses in 2021 and 2022'
@@ -87,15 +87,15 @@ sections:
           organization_url: https://www.manchester.ac.uk
           title: 'POLI60341: Tools and techniques of applied quantitative analysis'
           url: ''
-        - certificate_url: 
-          date_end: ''
-          date_start: '2022-06-30'
+        - certificate_url: ''
+          date_end: '2022-06-30'
+          date_start: '2022-02-01'
           description: 
           organization: The University of Manchester
           organization_url: https://www.manchester.ac.uk
           title: 'POLI10202: Introduction to Comparative Politics'
-          url: 
-        - certificate_url: 
+          url: ''
+        - certificate_url: ''
           date_end: '2010-07-31'
           date_start: '2009-03-01'
           description: ''
@@ -103,7 +103,7 @@ sections:
           organization_url: https://facso.uchile.cl
           title: 'SOC-HC-1 Contemporary Social History'
           url: ''
-       - certificate_url: 
+       - certificate_url: ''
           date_end: '2011-12-31'
           date_start: '2011-03-01'
           description: ''
