@@ -46,7 +46,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: This is a relevant skill
+        - name: This is a relevant skill.
           description: 90%
           icon: r-project
           icon_pack: fab
