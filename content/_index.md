@@ -16,21 +16,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: Quantitative methods
-          #description: 90%
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Comparative 
-          #description: 
-          icon: 
-          icon_pack: fas
-        - name: Comparative Politics
-          #description: 
+        - name: Photography
+          description: 10%
           icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
-      title: Academic trajectory
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -42,27 +42,27 @@ sections:
       items:
         - title: PhD in Politics
           company: The University of Manchester
-          company_url: ''
-          company_logo: uom.png
+          company_url: 'https://www.manchester.ac.uk/'
+          company_logo: org-gc
           location: Manchester, UK
           date_start: '2020-09-20'
           date_end: ''
           description: ''
         - title: Master in Political Science
-          company: University of Chile
-          company_url: ''
-          company_logo: uchile.png
+          company: The University of Chile
+          company_url: 'https://gobierno.uchile.cl/'
+          company_logo: org-x
           location: Santiago, Chile
           date_start: '2015-03-01'
           date_end: '2016-12-31'
           description: ''
         - title: Sociologist, Licentiate in Sociology
-          company: University of Chile
-          company_url: ''
-          company_logo: uchile.png
+          company: The University of Chile
+          company_url: 'https://facso.uchile.cl/'
+          company_logo: org-x
           location: Santiago, Chile
           date_start: ''
-          date_end: '2014-07'
+          date_end: '2014-12-31'
           description: ''
     design:
       columns: '2'
