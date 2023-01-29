@@ -1,16 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'There Is No Single Economy and No Single Voter:: A Comparative Analysis of
-  the Economic Voting across Eighteen Democracies to EPSA 2022.'
+title: 'Metodologías innovadoras de participación comunitaria en salud: experiencia
+  del Programa Santiago Sano'
 subtitle: ''
 summary: ''
 authors:
+- Sebastián Peña
 - Francisco Espinoza
+- Paula Sierralta
+- María Teresa Escobar
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-29T13:16:25Z
+date: '2016-11-29'
+lastmod: 2023-01-29T13:35:32Z
 featured: false
 draft: false
 
@@ -28,12 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:20.874619Z'
+publishDate: '2023-01-29T13:36:26.795076Z'
 publication_types:
 - '1'
 abstract: ''
 publication: ''
+doi: 10.5867/medwave.2016.6736
 links:
 - name: URL
-  url: https://research.manchester.ac.uk/en/publications/there-is-no-single-economy-and-no-single-voter-a-comparative-anal
+  url: https://www.medwave.cl/resumenescongreso/sp2016/partsocciudsal/6736.html
 ---

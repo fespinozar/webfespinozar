@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'There Is No Single Economy and No Single Voter:: A Comparative Analysis of
-  the Economic Voting across Eighteen Democracies to EPSA 2022.'
+title: 'Chile’s Constitutional Referendum: The Opportunity to Set Pinochet’s Legacy
+  aside'
 subtitle: ''
 summary: ''
 authors:
 - Francisco Espinoza
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-29T13:16:25Z
+date: '2022-08-03T12:08:33+00:00'
+lastmod: 2023-01-29T13:35:29Z
 featured: false
 draft: false
 
@@ -28,12 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:20.874619Z'
+publishDate: '2023-01-29T13:36:22.175771Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
 publication: ''
 links:
 - name: URL
-  url: https://research.manchester.ac.uk/en/publications/there-is-no-single-economy-and-no-single-voter-a-comparative-anal
+  url: https://sites.manchester.ac.uk/political-perspectives/2022/08/03/chiles-constitutional-referendum-the-opportunity-to-set-pinochets-legacy-aside/
 ---

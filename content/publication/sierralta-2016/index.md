@@ -1,16 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'There Is No Single Economy and No Single Voter:: A Comparative Analysis of
-  the Economic Voting across Eighteen Democracies to EPSA 2022.'
+title: Exposición al marketing de alcohol y alimentos azucarados en vía pública en
+  Santiago
 subtitle: ''
 summary: ''
 authors:
+- Paula Sierralta
+- Sebastián Peña
 - Francisco Espinoza
+- Blas Alid
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-29T13:16:25Z
+date: '2016-11-30'
+lastmod: 2023-01-29T13:35:34Z
 featured: false
 draft: false
 
@@ -28,12 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:20.874619Z'
+publishDate: '2023-01-29T13:36:31.324788Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Resumen del IV Congreso Chileno de Salud Pública y VI Congreso Chileno de
+  Epidemiología - Publicado el 30 de noviembre de 2016 | http://doi.org/10.5867/medwave.2016.6680
 publication: ''
+doi: 10.5867/medwave.2016.6680
 links:
 - name: URL
-  url: https://research.manchester.ac.uk/en/publications/there-is-no-single-economy-and-no-single-voter-a-comparative-anal
+  url: https://www.medwave.cl/resumenescongreso/sp2016/salambiental/6680.html
 ---

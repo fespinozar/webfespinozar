@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'There Is No Single Economy and No Single Voter:: A Comparative Analysis of
-  the Economic Voting across Eighteen Democracies to EPSA 2022.'
+title: Izquierdas Latinoamericanas. Análisis Comparado de Gobiernos de Coalición.
 subtitle: ''
 summary: ''
 authors:
 - Francisco Espinoza
+- Klaus Lehmann
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-29T13:16:25Z
+date: '2012-03-01'
+lastmod: 2023-01-29T13:35:27Z
 featured: false
 draft: false
 
@@ -28,12 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:20.874619Z'
+publishDate: '2023-01-29T13:36:19.136963Z'
 publication_types:
-- '1'
-abstract: ''
-publication: ''
-links:
-- name: URL
-  url: https://research.manchester.ac.uk/en/publications/there-is-no-single-economy-and-no-single-voter-a-comparative-anal
+- '6'
+abstract: El presente artículo aborda el problema generado por las diferencias e imprecisiones
+  en torno al concepto de izquierda. La gama de partidos y colectivos que se identifican
+  en este sector político es tan amplia que el concepto de izquierda termina por
+publication: '*Anuario de Investigación Estudiantil.*'
 ---

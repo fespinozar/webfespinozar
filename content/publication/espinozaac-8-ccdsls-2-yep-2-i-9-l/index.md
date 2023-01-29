@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'There Is No Single Economy and No Single Voter:: A Comparative Analysis of
-  the Economic Voting across Eighteen Democracies to EPSA 2022.'
+title: 'Discursos meritocráticos: Significados y valoraciones diferenciadas en Chile
+  contemporáneo.'
 subtitle: ''
 summary: ''
 authors:
 - Francisco Espinoza
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-29T13:16:25Z
+date: -01-01
+lastmod: 2023-01-29T13:35:30Z
 featured: false
 draft: false
 
@@ -28,12 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-29T13:36:20.874619Z'
+publishDate: '2023-01-29T13:36:23.764165Z'
 publication_types:
-- '1'
-abstract: ''
-publication: ''
+- '6'
+abstract: 'Editor Literario: Red de Sociología de las Universidades Chilenas SOCIORED
+  , Universidad Central , Materia: Sociología y antropología, ISBN: 978-956-330-048-2'
+publication: '*Acta científica 8° Congreso Chileno de sociología La Serena 2014 y
+  Encuentro pre-ALAS 2015 | ISBN 978-956-330-048-2 - Libro*'
 links:
 - name: URL
-  url: https://research.manchester.ac.uk/en/publications/there-is-no-single-economy-and-no-single-voter-a-comparative-anal
+  url: https://isbn.cloud/9789563300482/acta-cientifica-8-congreso-chileno-de-sociologia-la-serena-2014-y-encuentro-pre-alas-2015/
 ---
