@@ -56,6 +56,14 @@ sections:
           date_start: '2015-03-01'
           date_end: '2016-12-31'
           description: 'Scholarship funded by the Chilean National Commission for Scientific and Technological Research, CONICYT.'
+        - title: Sociologist, Licentiate in Sociology
+          company: University of Chile
+          company_url: 'https://facso.uchile.cl/'
+          company_logo: org-x
+          location: Santiago, Chile
+          date_start: '2008-03-01'
+          date_end: '2014-07-04'
+          description: 'Scholarship funded by the Chilean Ministry of Education.'
     design:
       columns: '2'
   - block: accomplishments
