@@ -79,37 +79,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
-          date_end: '2021-09-15'
-          date_start: '2023-01-31'
-          description: 'TA role in postgraduate taught courses in 2021 and 2022'
-          organization: The University of Manchester
-          organization_url: https://www.manchester.ac.uk
-          title: 'POLI60341: Tools and techniques of applied quantitative analysis'
-          url: ''
-        - certificate_url: ''
-          date_end: '2022-06-30'
-          date_start: '2022-02-01'
-          description: 
-          organization: The University of Manchester
-          organization_url: https://www.manchester.ac.uk
-          title: 'POLI10202: Introduction to Comparative Politics'
-          url: ''
-        - certificate_url: ''
-          date_end: '2010-07-31'
-          date_start: '2009-03-01'
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
           description: ''
-          organization: The University of Chile
-          organization_url: https://facso.uchile.cl
-          title: 'SOC-HC-1 Contemporary Social History'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
-       - certificate_url: ''
-          date_end: '2011-12-31'
-          date_start: '2011-03-01'
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          organization: The University of Chile
-          organization_url: https://facso.uchile.cl
-          title: 'SOC-EESRU-1 - SOC-EESRU-2 Rural Sociology and Anthropology I-II'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -220,46 +212,37 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: ''
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: francisco.espinoza@manchester.ac.uk
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Oxford Road
+        city: Manchester
+        region: Greater Manchester
+        postcode: 'M13 9PL'
+        country: United Kingdom
+        country_code: UK
+      #directions: Arthur Lewis Building
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/fcoespin_'
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
