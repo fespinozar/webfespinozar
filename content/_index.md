@@ -42,7 +42,7 @@ sections:
       items:
         - title: PhD in Politics
           company: The University of Manchester
-          company_url: ''
+          company_url: 'https://www.manchester.ac.uk/'
           company_logo: org-gc
           location: Manchester, UK
           date_start: '2020-09-15'
@@ -50,11 +50,19 @@ sections:
           description: ''
         - title: Master in Political Science
           company: University of Chile
-          company_url: 'https//:'
+          company_url: 'https://gobierno.uchile.cl/'
           company_logo: org-x
           location: Santiago, Chile
           date_start: '2015-03-01'
           date_end: '2016-12-31'
+          description: ''
+        - title: Sociologist, Licentiate in Sociology
+          company: University of Chile
+          company_url: 'https://facso.uchile.cl/'
+          company_logo: org-x
+          location: Santiago, Chile
+          date_start: ''
+          date_end: '2014-07-04'
           description: ''
     design:
       columns: '2'
