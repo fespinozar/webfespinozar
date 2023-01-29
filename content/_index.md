@@ -46,7 +46,7 @@ sections:
           company_logo: uom.png
           location: Manchester, UK
           date_start: '2020-09-20'
-          date_end: '2024-09-20'
+          date_end: ''
           description: ''
         - title: Master in Political Science
           company: University of Chile
